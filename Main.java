@@ -12,7 +12,7 @@ public class Main {
         String ans01 = a.nextLine();
         int ans = Integer.parseInt(ans01);
         if (ans == 1) {
-            convertisseurs.bpmToFps();
+            converters.bpmToFps();
         }
         a.close();
     }

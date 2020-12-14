@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class convertisseurs {
+public class converters {
 
     public static void bpmToFps() {
 
